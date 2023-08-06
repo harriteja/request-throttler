@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "throttler",
+    "throttler-cli",
+    "throttler-client",
+    "throttler-storage",
+    "throttler-test",
+]
